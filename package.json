@@ -1,0 +1,24 @@
+{
+  "name": "tdah-helper",
+  "version": "1.0.0",
+  "description": "Una aplicación que busca ayudar organizando tareas y compartiendo información con una red de apoyo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:md": "markdownlint \"**/*.md\""
+  },
+  "keywords": [
+    "tdah",
+    "node",
+    "expo",
+    "react",
+    "native",
+    "prism",
+    "express"
+  ],
+  "author": "Jorge Montesinos",
+  "license": "ISC",
+  "devDependencies": {
+    "markdownlint-cli": "^0.41.0"
+  }
+}
