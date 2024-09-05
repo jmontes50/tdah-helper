@@ -137,6 +137,6 @@ La aplicación será desarrollada utilizando **Expo** para crear una app móvil 
 
 ## Colaboración
 
-Si tienes ideas o sugerencias, no dudes en utilizar el apartado de **issues** para hacerme llegar tus propuestas. Este proyecto también está abierto a **pull requests** (PR), así que siéntete libre de hacer un **fork** y contribuir con mejoras o nuevas funcionalidades.
+Si tienes ideas o sugerencias, no dudes en utilizar el apartado de **[issues](https://github.com/jmontes50/tdah-helper/issues)** para hacerme llegar tus propuestas. Este proyecto también está abierto a **pull requests** (PR), así que siéntete libre de hacer un **fork** y contribuir con mejoras o nuevas funcionalidades.
 
 Para cualquier otra consulta o duda, puedes mandarme un [email](mailto:osmarmontes50@gmail.com)  o escribirme por [LinkedIn](https://www.linkedin.com/in/osmarmontesinos/).
