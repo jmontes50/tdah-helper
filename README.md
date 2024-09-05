@@ -1,6 +1,6 @@
 # TDAH Helper
 
-## Preambulo
+## Preámbulo
 
 El Trastorno por Déficit de Atención e Hiperactividad (TDAH) puede impactar significativamente la capacidad de organización, concentración y productividad en el día a día. Como una persona con TDAH, me enfrenté a la necesidad de encontrar una herramienta que me ayudara a gestionar mejor mis actividades. Esto me llevó a crear plantillas que, a través de una estructura organizada de metas y tareas, me han permitido mejorar mi productividad. Al compartir estas plantillas con amigos y mi red de apoyo, descubrí que no solo lograba sentirme menos disperso, sino que también experimentaba mejoras tangibles en mi enfoque. Este proyecto busca llevar esa experiencia a una app, integrando recordatorios, gestión de tareas y metas, y la posibilidad de compartir el progreso con amigos, para ayudar a más personas a sentirse en control de sus actividades diarias.
 
